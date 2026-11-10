@@ -162,4 +162,12 @@ footer {
     }
 
 }
+/* Manual: Add smooth hover effect to website links */
+a {
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #8e44ad;
+}
 
